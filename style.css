@@ -141,7 +141,8 @@ nav{
 }
 
 .btn2 {
-    border: 2px solid #60a5fa;
+    background: linear-gradient(to right, #2563eb, #3b82f6);
+    /* border: 2px solid #60a5fa; */
     color: white;
 }
 
